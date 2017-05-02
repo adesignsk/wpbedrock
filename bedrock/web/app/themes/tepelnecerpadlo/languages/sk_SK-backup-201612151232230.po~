@@ -1,0 +1,594 @@
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2016-12-15 12:30+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=( n == 1 ) ? 0 : ( n >= 2 && n <= 4 ) ? 1 : "
+"2\n"
+"X-Generator: Loco - https://localise.biz/\n"
+"Language: sk-SK\n"
+"Project-Id-Version: Themes - hydra\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2016-12-15 12:08+0000\n"
+"Last-Translator: dodo <info@adesign.sk>\n"
+"Language-Team: Slovak"
+
+#. Theme Name of the plugin/theme
+msgid "hydra"
+msgstr "Hydra"
+
+#. Description of the plugin/theme
+msgid ""
+"hydra is the perfect theme for your next WooCommerce project. Designed and "
+"developed by WooCommerce Core developers, it features a bespoke integration "
+"with WooCommerce itself plus many of the most popular customer facing "
+"WooCommerce extensions. There are several layout & color options to "
+"personalise your shop, multiple widget regions, a responsive design and much "
+"more. Developers will love it's lean and extensible codebase making it a joy "
+"to customise and extend. Looking for a WooCommerce theme? Look no further!"
+msgstr ""
+"Hydra obsahuje integráciu WooCommerce a jeho rozšíreniami. Téma obsahuje "
+"niekoľko možností rozloženia a farebnosti, aby ste si mohli prispôsobiť váš "
+"obchod; niekoľko oblastí pre widgety, responzívny dizajn a veľa ďalších "
+"funkcií."
+
+#: inc/class-hydra.php:142
+msgid ""
+"Widgets added to this region will appear beneath the header and above the "
+"main content."
+msgstr ""
+"Widgety pridané do tejto oblasti budú viditeľné pod hlavičkou a nad hlavným "
+"obsahom."
+
+#: inc/admin/welcome-screen/component-contribute.php:15
+msgid "Download Theme Customisations"
+msgstr "Stiahnuť úpravy témy"
+
+#: inc/admin/welcome-screen/component-contribute.php:11
+msgid ""
+"We highly encourage you to make %s all yours. If you need to make a CSS "
+"tweak or add some custom JS or PHP, please use our Theme Customisations "
+"Plugin. Simply Click the button below, install as normal, and start "
+"Customizing today!"
+msgstr "Prispôsobte si %s ako len chcete. "
+
+#: inc/admin/welcome-screen/component-contribute.php:10
+msgid "Customise hydra"
+msgstr "Prispôsobiť Hydru"
+
+#: inc/woocommerce/hydra-woocommerce-template-functions.php:327
+msgid "My Account"
+msgstr "Môj účet"
+
+#: inc/woocommerce/hydra-woocommerce-template-functions.php:300
+msgid "Search"
+msgstr "Hľadať"
+
+#: inc/hydra-template-functions.php:738
+msgid "Best Sellers"
+msgstr "Najpredávanejšie"
+
+#: inc/hydra-template-functions.php:662
+msgid "Fan Favorites"
+msgstr "Obľúbené"
+
+#: inc/hydra-template-functions.php:621
+msgid "We Recommend"
+msgstr "Doporučujeme"
+
+#: inc/hydra-template-functions.php:580
+msgid "New In"
+msgstr "Novinky"
+
+#: inc/hydra-template-functions.php:539
+msgid "Shop by Category"
+msgstr "KATEGÓRIE"
+
+#: inc/hydra-template-functions.php:443
+msgid "Comments"
+msgstr "Komentáre"
+
+#: inc/hydra-template-functions.php:433
+msgid "Tagged"
+msgstr "Označené"
+
+#: inc/hydra-template-functions.php:420
+msgid "Posted in"
+msgstr "Kategória:"
+
+#: inc/hydra-template-functions.php:409
+msgid "Written by"
+msgstr "Autor:"
+
+#: inc/hydra-template-functions.php:231
+msgid "Menu"
+msgstr "Menu"
+
+#: inc/admin/welcome-screen/component-intro.php:66
+msgid "Stay up to date with hydra developments on the %sdev blog%s."
+msgstr "Získajte aktuálne informáce o vývoji hydra na %svývojovom blogu%s."
+
+#: inc/admin/welcome-screen/component-enhance.php:39
+#: inc/admin/welcome-screen/component-enhance.php:81
+#: inc/admin/welcome-screen/component-enhance.php:111
+msgid ""
+"We're currently unable to retrieve these products. Please double check your "
+"internet connection or try back later."
+msgstr ""
+"Aktuálne nedokážeme nájsť tieto produkty. Prosím skontrolujte vaše "
+"pripojenie k internetu alebo sa vráťte späť neskôr."
+
+#: inc/admin/welcome-screen/component-contribute.php:32
+msgid ""
+"You can find a wide range of information on how to use and customise %s in "
+"our %sdocumentation%s. If you're a customer you can get support in our "
+"%sHelpdesk%3$s. Otherwise you can try posting on the WordPress.org %ssupport "
+"forums%3$s."
+msgstr ""
+"Informácie ako používať a upravovať %s nájdete v našej %sdokumentácii%s. Ak "
+"ste našim zákazníkom a máte problém, môžete sa obrátiť na našu %sTechnickú "
+"podporu%3$s. V opačnom prípade sa môžete prihlásiť na %sfórum podpory%3$s na "
+"WordPress.org."
+
+#: inc/admin/welcome-screen/component-contribute.php:31
+msgid "Get support"
+msgstr "Podpora"
+
+#: inc/class-hydra.php:140
+msgid "Below Header"
+msgstr "Pod hlavičkou"
+
+#: inc/admin/welcome-screen/component-intro.php:58
+msgid "Customizer settings"
+msgstr "Nastavnia prispôsobenia"
+
+#: inc/customizer/class-hydra-customizer-control-more.php:31
+msgid "Enjoying %s?"
+msgstr "Páči sa vám %s?"
+
+#: inc/admin/welcome-screen/component-intro.php:57
+msgid "FAQ"
+msgstr "Telo"
+
+#: inc/admin/welcome-screen/component-intro.php:56
+msgid "Installation &amp; configuration"
+msgstr "Inštalácia konfigurácia"
+
+#: inc/admin/welcome-screen/component-intro.php:54
+msgid "Featured Docs"
+msgstr "Dôležitá dokumentácia"
+
+#: inc/admin/welcome-screen/component-intro.php:34
+msgid "Recent News"
+msgstr "Nedávne novinky"
+
+#: inc/admin/welcome-screen/component-intro.php:31
+msgid "Latest %s news"
+msgstr "Posledné %s novinky"
+
+#: inc/admin/welcome-screen/component-intro.php:26
+msgid "Install %s"
+msgstr "Inštalovať %s"
+
+#: inc/admin/welcome-screen/component-intro.php:19
+msgid "Built to enrich your %s store"
+msgstr "Vyvinutý na obohatenie vášho %s obchodu"
+
+#: inc/admin/welcome-screen/component-intro.php:14
+msgid ""
+"%sEnjoying %s?%s Why not %sleave a review%s on WordPress.org? We'd really "
+"appreciate it!"
+msgstr ""
+"%sPáči sa vám %s?%s Chceli by ste nám %szanechať recenziu%s na WordPress.org?"
+" Budeme veľmi vďační!"
+
+#: inc/admin/welcome-screen/component-enhance.php:86
+msgid "View all %s child themes &rarr;"
+msgstr "Vidieť všetky odvodené témy %s &rarr;"
+
+#: inc/admin/welcome-screen/component-enhance.php:53
+msgid ""
+"Take a look at our range of child themes for %s that allow you to easily "
+"change the look of your store to suit a specific industry."
+msgstr ""
+"Prezrite si našu ponuku odvodených tém pre %s, ktoré vám umožnia jednodcho "
+"zmeniť vzhľad vášho obchodu, aby vyhovoval oblasti vášho podnikania."
+
+#: inc/admin/welcome-screen/component-enhance.php:52
+msgid "Child themes"
+msgstr "Odvodené témy"
+
+#: inc/admin/welcome-screen/component-enhance.php:94
+msgid ""
+"There are a number of free plugins available for %s on the WordPress.org "
+"%splugin repository%s. Here's a few we made earlier:"
+msgstr ""
+"Pre %s je k dispozícii množstvo bezplatných pluginov, ktoré môžete nájsť v "
+"%srepozitári pluginov%s na WordPress.org. Tu je niekoľko od nás:"
+
+#: inc/admin/welcome-screen/component-enhance.php:46
+msgid "View all %s extensions &rarr;"
+msgstr "Vidieť všetky %s rozšírenia &rarr;"
+
+#: inc/admin/welcome-screen/component-enhance.php:22
+msgid ""
+"Take a look at our range of extensions that extend and enhance %s "
+"functionality."
+msgstr "Prezrite si ponuku našich rozšírení, ktoré rozširujú funkcionalitu %s."
+
+#: inc/admin/welcome-screen/component-enhance.php:20
+msgid "Enhance %s"
+msgstr "Vylepšiť %s"
+
+#: inc/admin/welcome-screen/component-contribute.php:38
+msgid "An %s project"
+msgstr "Projekt %s"
+
+#: inc/admin/welcome-screen/component-contribute.php:27
+msgid ""
+"Please suggest and vote on ideas at the %s%s Ideas board%s. The most popular "
+"ideas will see prioritised development."
+msgstr ""
+"Navrhnite a hlasujte za nápady na %s%s fóre návrhov%s. Najpopulárnejšie "
+"návrhy budú pri vývoji uprednostnené."
+
+#: inc/admin/welcome-screen/component-contribute.php:26
+msgid "Suggest a feature"
+msgstr "Navrhni funkciu"
+
+#: inc/admin/welcome-screen/component-contribute.php:21
+msgid "Contribute to hydra"
+msgstr "Prispievaj do hydra"
+
+#: inc/admin/welcome-screen/component-intro.php:24
+msgid "%s is activated"
+msgstr "%s je aktivované"
+
+#: inc/woocommerce/hydra-woocommerce-template-functions.php:225
+msgid "On Sale Now"
+msgstr "Teraz v zľave"
+
+#: inc/woocommerce/hydra-woocommerce-template-functions.php:233
+msgid "New In Store"
+msgstr "Novinky v obchode"
+
+#: inc/admin/welcome-screen/component-enhance.php:62
+#: inc/admin/welcome-screen/component-enhance.php:106
+msgid "Free!"
+msgstr "Zadarmo!"
+
+#: inc/admin/welcome-screen/component-enhance.php:92
+msgid "Install free plugins"
+msgstr "Nainštaluj bezplatné moduly"
+
+#: inc/customizer/class-hydra-customizer.php:234
+msgid "Header background image"
+msgstr "Obrázok pozadia hlavičky"
+
+#: inc/hydra-template-functions.php:461
+msgctxt "Next post"
+msgid "Next"
+msgstr "Ďalší"
+
+#: inc/hydra-template-functions.php:462
+msgctxt "Previous post"
+msgid "Previous"
+msgstr "Predošlý"
+
+#: 404.php:58
+msgid "Popular Products"
+msgstr "Obľúbené produkty"
+
+#: 404.php:22
+msgid ""
+"Nothing was found at this location. Try searching, or check out the links "
+"below."
+msgstr ""
+"Nič nebolo nenájdené. Skúste vyhľadávanie alebo si pozrite odkazy nižšie."
+
+#. Template Name of the plugin/theme
+msgid "Homepage"
+msgstr "Domovská stránka"
+
+#. Template Name of the plugin/theme
+msgid "Full width"
+msgstr "Plná šírka"
+
+#: inc/woocommerce/hydra-woocommerce-template-functions.php:75
+msgid "%d item"
+msgid_plural "%d items"
+msgstr[0] "%d produkt"
+msgstr[1] "%d produkty"
+msgstr[2] "%d produktov"
+
+#: search.php:16
+msgid "Search Results for: %s"
+msgstr "Výsledky vyhľadávania pre: %s"
+
+#: 404.php:47
+msgid "Product Categories"
+msgstr "Kategórie produktov"
+
+#: inc/woocommerce/hydra-woocommerce-template-functions.php:217
+msgid "Featured Products"
+msgstr "Vybrané produkty"
+
+#: inc/woocommerce/hydra-woocommerce-template-functions.php:74
+#: inc/woocommerce/hydra-woocommerce-template-functions.php:313
+msgid "View your shopping cart"
+msgstr "Zobraziť košík"
+
+#: inc/hydra-template-functions.php:701
+msgid "On Sale"
+msgstr "V zľave"
+
+#: inc/hydra-template-functions.php:500
+msgctxt "post date"
+msgid "Posted on %s"
+msgstr "Publikované %s"
+
+#: inc/hydra-template-functions.php:444
+msgid "% Comments"
+msgstr "Počet komentárov: %"
+
+#: inc/hydra-template-functions.php:444
+msgid "1 Comment"
+msgstr "Jeden komentár"
+
+#: inc/hydra-template-functions.php:444
+msgid "Leave a comment"
+msgstr "Vložiť komentár"
+
+#. translators: used between list items, there is a space after the comma
+#: inc/hydra-template-functions.php:415 inc/hydra-template-functions.php:428
+msgid ", "
+msgstr ", "
+
+#: inc/hydra-template-functions.php:377
+msgid "Continue reading %s"
+msgstr "Pokračovať v čítaní: %s"
+
+#: inc/hydra-template-functions.php:322 inc/hydra-template-functions.php:385
+msgid "Pages:"
+msgstr "Stránky:"
+
+#: inc/hydra-template-functions.php:286
+msgid "Skip to navigation"
+msgstr "Preskočiť na navigáciu"
+
+#: inc/hydra-template-functions.php:262
+msgid "Secondary Navigation"
+msgstr "Sekundárna navigácia"
+
+#: inc/hydra-template-functions.php:287
+msgid "Skip to content"
+msgstr "Preskočiť na obsah"
+
+#: inc/hydra-template-functions.php:128
+msgid "%1$s designed by %2$s."
+msgstr "%1$s navrhla spoločnosť %2$s."
+
+#: inc/hydra-template-functions.php:230
+msgid "Primary Navigation"
+msgstr "Hlavná navigácia"
+
+#: inc/hydra-template-functions.php:64
+msgid "Edit"
+msgstr "Upraviť"
+
+#: inc/class-hydra.php:151
+msgid "Footer %d"
+msgstr "Pätička %d"
+
+#: inc/class-hydra.php:153
+msgid "Widgetized Footer Region %d."
+msgstr "Priestor pre widgety v pätičke %d."
+
+#: inc/hydra-template-functions.php:48
+msgid "Your comment is awaiting moderation."
+msgstr "Váš komentár čaká na schválenie."
+
+#: inc/class-hydra.php:88
+msgid "Handheld Menu"
+msgstr "Menu pre mobily"
+
+#: inc/class-hydra.php:134
+msgid "Sidebar"
+msgstr "Bočný panel"
+
+#: inc/class-hydra.php:87
+msgid "Secondary Menu"
+msgstr "Sekundárne menu"
+
+#: inc/customizer/class-hydra-customizer.php:460
+msgid "Looking for more options?"
+msgstr "Hľadáte viac možností?"
+
+#: inc/class-hydra.php:86
+msgid "Primary Menu"
+msgstr "Hlavné menu"
+
+#: inc/customizer/class-hydra-customizer.php:437
+msgid "General Layout"
+msgstr "Všeobecné rozloženie"
+
+#: inc/customizer/class-hydra-customizer.php:450
+msgid "More"
+msgstr "Viac"
+
+#: inc/customizer/class-hydra-customizer.php:289
+msgid "Customise the look & feel of your web site footer."
+msgstr "Prispôsobte vzhľad pätičky vašej webovej stránky."
+
+#: inc/customizer/class-hydra-customizer.php:358
+msgid "Customise the look & feel of your web site buttons."
+msgstr "Prispôsobte vzhľad tlačidiel na vašej webovej stránke."
+
+#: inc/customizer/class-hydra-customizer.php:356
+msgid "Buttons"
+msgstr "Tlačítka"
+
+#: inc/customizer/class-hydra-customizer.php:415
+msgid "Alternate button text color"
+msgstr "Alternatívna farba textu na tlačidle"
+
+#: inc/customizer/class-hydra-customizer.php:400
+msgid "Alternate button background color"
+msgstr "Alternatívna farba pozadia tlačidla"
+
+#: inc/customizer/class-hydra-customizer.php:425
+msgid "Layout"
+msgstr "Rozloženie"
+
+#: inc/customizer/class-hydra-customizer.php:287
+msgid "Footer"
+msgstr "Päta stránky"
+
+#: inc/customizer/class-hydra-customizer.php:277
+#: inc/customizer/class-hydra-customizer.php:346
+msgid "Link color"
+msgstr "Farba odkazu"
+
+#: inc/customizer/class-hydra-customizer.php:247
+#: inc/customizer/class-hydra-customizer.php:301
+#: inc/customizer/class-hydra-customizer.php:370
+msgid "Background color"
+msgstr "Farba pozadia"
+
+#: inc/customizer/class-hydra-customizer.php:195
+#: inc/customizer/class-hydra-customizer.php:316
+msgid "Heading color"
+msgstr "Farba záhlavia"
+
+#: inc/customizer/class-hydra-customizer.php:225
+msgid "Link / accent color"
+msgstr "Farba odkazov / motívu"
+
+#: inc/customizer/class-hydra-customizer.php:210
+#: inc/customizer/class-hydra-customizer.php:262
+#: inc/customizer/class-hydra-customizer.php:331
+#: inc/customizer/class-hydra-customizer.php:385
+msgid "Text color"
+msgstr "Farba textu"
+
+#: inc/customizer/class-hydra-customizer.php:182
+msgid "Typography"
+msgstr "Typografia"
+
+#: inc/customizer/class-hydra-customizer.php:144
+msgid "Header"
+msgstr "Záhlavie stránky"
+
+#: inc/admin/welcome-screen/component-contribute.php:22
+msgid ""
+"Found a bug? Want to contribute a patch or create a new feature? %sGitHub is "
+"the place to go!%s Or would you like to translate %s into your language? "
+"%sGet involved on WordPress.org%s."
+msgstr ""
+"Našli ste chybu? Chcete prispieť vlastnou záplatou alebo vytvoriť novú "
+"funkciu? %sVšetko nájdete na portále GitHub!%s Ak prípadne chcete preložiť "
+"%s do vášho jazyka, %szapojte sa cez WordPress.org%s."
+
+#: inc/admin/class-hydra-admin.php:57
+msgid "Get started with hydra"
+msgstr "Začíname so hydra"
+
+#: inc/admin/class-hydra-admin.php:56
+msgid ""
+"Thanks for choosing hydra! You can read hints and tips on how get the most "
+"out of your new theme on the %swelcome screen%s."
+msgstr ""
+"Ďakujeme, že ste si vybrali hydra! Môžete si prečítať návody a tipy ako "
+"získať čo najviac zo svojej novej témy na %suvítaciu obrazovku%s."
+
+#: inc/customizer/class-hydra-customizer-control-more.php:28
+msgid ""
+"There's a range of %s extensions available to put additional power in your "
+"hands. Check out the %s%s%s page in your dashboard for more information."
+msgstr ""
+"Dostupná je široká ponuka %s rozšírení, ktoré vám umožnia robiť viac vecí. "
+"Ak chcete vedieť viac, pozrite si stránku %s%s%s na svojej nástenke."
+
+#: inc/customizer/class-hydra-customizer-control-more.php:34
+msgid ""
+"Why not leave us a review on %sWordPress.org%s?  We'd really appreciate it!"
+msgstr ""
+"Chceli by ste nám %szanechať recenziu%s na WordPress.org? Budeme veľmi "
+"vďační!"
+
+#: inc/customizer/class-hydra-customizer.php:140
+msgid "Background"
+msgstr "Pozadie"
+
+#: inc/admin/welcome-screen/component-intro.php:21
+msgid ""
+"Although %s works fine as a regular WordPress theme, it really shines when "
+"used for an online store. Install %s and start selling now."
+msgstr ""
+"Aj keď %s funguje aj ako štandardná WordPress téma, jej plný potenciál "
+"využijete, keď ju využijete na online obchod. Nainštalujte %s a začnite "
+"predávať!"
+
+#: content-none.php:29
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr "Nie je možné nájsť to, čo hľadáte. Skúste použiť vyhľadávanie."
+
+#: content-none.php:24
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr "Ľutujeme, hľadaný výraz sa nenašiel. Prosím, skúste iné kľúčové slová."
+
+#: content-none.php:20
+msgid ""
+"Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+"Ste pripravený publikovať váš prvý príspevok? <a href=\"%1$s\">Začnite tu</a>"
+"."
+
+#: content-none.php:14
+msgid "Nothing Found"
+msgstr "Nenašlo sa"
+
+#: comments.php:64
+msgid "Comments are closed."
+msgstr "Nie je možné pridávať komentáre."
+
+#: comments.php:39 comments.php:57
+msgid "Newer Comments &rarr;"
+msgstr "Novšie komentáre &rarr;"
+
+#: comments.php:38 comments.php:56
+msgid "&larr; Older Comments"
+msgstr "&larr; Staršie komentáre"
+
+#: comments.php:37 comments.php:55
+msgid "Comment navigation"
+msgstr "Navigácia komentármi"
+
+#: comments.php:28
+msgctxt "comments title"
+msgid "One thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] "Názor k &ldquo;%2$s&rdquo;"
+msgstr[1] "%1$s názory k &ldquo;%2$s&rdquo;"
+msgstr[2] "%1$s názorov k &ldquo;%2$s&rdquo;"
+
+#: 404.php:19
+msgid "Oops! That page can&rsquo;t be found."
+msgstr "Hups! Stránka nebola nájdená."
+
+#. Author URI of the plugin/theme
+msgid "https://woocommerce.com/"
+msgstr "https://woocommerce.com/"
+
+#. Theme URI of the plugin/theme
+msgid "https://woocommerce.com/hydra"
+msgstr "https://woocommerce.com/hydra"
+
+#. Author of the plugin/theme
+msgid "WooThemes"
+msgstr "WooThemes"

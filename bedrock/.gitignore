@@ -1,5 +1,7 @@
 # Application
-# web/app/plugins/*
+web/app/plugins/*
+web/app/themes/tepelnecerpadlo/bower_components/*
+web/app/themes/tepelnecerpadlo/node_modules/*
 !web/app/plugins/.gitkeep
 web/app/mu-plugins/*/
 web/app/upgrade
