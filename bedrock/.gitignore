@@ -21,4 +21,5 @@ web/.htaccess
 vendor/*
 !vendor/.gitkeep
 
-.idea
+# PhpStorm
+.idea/*
