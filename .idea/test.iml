@@ -1,8 +1,48 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <module type="WEB_MODULE" version="4">
   <component name="NewModuleRootManager">
-    <content url="file://$MODULE_DIR$" />
+    <content url="file://$MODULE_DIR$">
+      <excludeFolder url="file://$MODULE_DIR$/bedrock/vendor/composer" />
+      <excludeFolder url="file://$MODULE_DIR$/bedrock/vendor/johnpbloch/wordpress" />
+      <excludeFolder url="file://$MODULE_DIR$/bedrock/vendor/johnpbloch/wordpress-core-installer" />
+      <excludeFolder url="file://$MODULE_DIR$/bedrock/vendor/oscarotero/env" />
+      <excludeFolder url="file://$MODULE_DIR$/bedrock/vendor/roots/wp-password-bcrypt" />
+      <excludeFolder url="file://$MODULE_DIR$/bedrock/vendor/squizlabs/php_codesniffer" />
+      <excludeFolder url="file://$MODULE_DIR$/bedrock/vendor/vlucas/phpdotenv" />
+    </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module-library">
+      <library name="PHARS">
+        <CLASSES>
+          <root url="phar://$MODULE_DIR$/composer.phar/" />
+        </CLASSES>
+        <SOURCES>
+          <root url="phar://$MODULE_DIR$/composer.phar/" />
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="PHP">
+        <CLASSES>
+          <root url="file://$MODULE_DIR$/bedrock/vendor/composer" />
+          <root url="file://$MODULE_DIR$/bedrock/vendor/johnpbloch/wordpress" />
+          <root url="file://$MODULE_DIR$/bedrock/vendor/johnpbloch/wordpress-core-installer" />
+          <root url="file://$MODULE_DIR$/bedrock/vendor/oscarotero/env" />
+          <root url="file://$MODULE_DIR$/bedrock/vendor/roots/wp-password-bcrypt" />
+          <root url="file://$MODULE_DIR$/bedrock/vendor/squizlabs/php_codesniffer" />
+          <root url="file://$MODULE_DIR$/bedrock/vendor/vlucas/phpdotenv" />
+        </CLASSES>
+        <SOURCES>
+          <root url="file://$MODULE_DIR$/bedrock/vendor/composer" />
+          <root url="file://$MODULE_DIR$/bedrock/vendor/johnpbloch/wordpress" />
+          <root url="file://$MODULE_DIR$/bedrock/vendor/johnpbloch/wordpress-core-installer" />
+          <root url="file://$MODULE_DIR$/bedrock/vendor/oscarotero/env" />
+          <root url="file://$MODULE_DIR$/bedrock/vendor/roots/wp-password-bcrypt" />
+          <root url="file://$MODULE_DIR$/bedrock/vendor/squizlabs/php_codesniffer" />
+          <root url="file://$MODULE_DIR$/bedrock/vendor/vlucas/phpdotenv" />
+        </SOURCES>
+      </library>
+    </orderEntry>
   </component>
 </module>
