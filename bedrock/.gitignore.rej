@@ -1,0 +1,8 @@
+diff a/bedrock/.gitignore b/bedrock/.gitignore	(rejected hunks)
+@@ -21,4 +21,5 @@
+ vendor/*
+ !vendor/.gitkeep
+ 
++# PhpStorm
+ .idea
+\ No newline at end of file
