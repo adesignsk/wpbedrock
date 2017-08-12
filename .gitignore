@@ -17,3 +17,16 @@ wp-content/plugins/hello.php
 /sitemap.xml.gz
 
 .idea/workspace.xml
+.env
+.env.example
+.gitignore.rej
+.idea/inspectionProfiles/
+.idea/jsLibraryMappings.xml
+.idea/php.xml
+CHANGELOG.md
+LICENSE.md
+composer.json
+composer.lock
+config/
+vendor/
+wp-cli.yml

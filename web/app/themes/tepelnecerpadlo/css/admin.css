@@ -1,0 +1,33 @@
+.iconpicker-popover.popover.bottomLeft.in { width:80% !important; }
+.iconpicker .iconpicker-items { max-height: 475px !important; }
+.iconpicker .iconpicker-item { margin: 0 2px 2px 0 !important; }
+.bfa-iconpicker .iconpicker-item { padding: 7px !important; }
+.acf_postbox .inside [id*=acf-obrazok] {
+    max-width: 16.666% !important;
+    width: 16.666% !important;
+	display: inline-block;
+    border: 1px solid #ECECEC;
+    box-sizing: border-box;
+    border-top: 0 !important;
+    border-left: 0 !important;
+}
+
+body.post-type-product #post_is_sticky {
+    display: none;
+}
+
+.settings_page_codepress-admin-columns #ac-pro-version, .settings_page_codepress-admin-columns #direct-feedback, .settings_page_codepress-admin-columns #plugin-support {
+    display: none;
+}
+
+textarea#excerpt {
+    min-height: 15em !important;
+}
+
+[class*="itsec"] #post-body.columns-2 #postbox-container-1 { display: none; }
+[class*="itsec"] #poststuff #post-body.columns-2 { margin-right:0 !important; }
+#poststuff .itsec-module-type-pro { display: none !important; }
+
+.analytify_general_status > a > img[alt="Buy Pro"] {
+    display: none;
+}
